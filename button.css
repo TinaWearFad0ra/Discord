@@ -33,10 +33,10 @@
     background-size: 26px;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0;
+    opacity: .6;
     filter: var(--i-tbr-btninvert); }
     .titleBar-AC4pGV .winButton-iRh8-Z:hover {
-      opacity: 0; }
+      opacity: .8; }
   .titleBar-AC4pGV div:nth-of-type(2) {
     background-image: var(--i-tbr-closeimg); }
   .titleBar-AC4pGV div:nth-of-type(3) {
